@@ -299,7 +299,7 @@ export const seoData: SEODataType = {
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Ega Evan',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://me.journeyku.my.id',
+  url: 'https://profile.journeyku.my.id',
   keywords: [
     'Ega',
     'Ega Evan',
