@@ -27,7 +27,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
+  url: 'https://egaevan.github.io/',
   linkedin: 'https://www.linkedin.com/in/ega-evan-4078a0155/',
   github: 'https://github.com/egaevan',
   instagram: 'https://www.instagram.com/egaevan',
@@ -261,23 +261,18 @@ export const projects: ProjectType[] = [
   {
     name: 'developer-portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    // github: 'https://github.com/1hanzla100/developer-portfolio',
-    link: 'https://developer-portfolio-1hanzla100.vercel.app/',
   },
   {
     name: 'AtlasMart',
     desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
-    github: 'https://github.com/1hanzla100/Django-React-Marketplace',
   },
   {
     name: 'Technota (Forum)',
     desc: 'Get hands-on experience in technical skills with Technota',
-    github: 'https://github.com/1hanzla100/django-react-forum',
   },
   {
     name: 'Shopaza (Ecommerce)',
     desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/1hanzla100/Django-ecommerce',
   },
 ];
 
@@ -304,7 +299,7 @@ export const seoData: SEODataType = {
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Ega Evan',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  url: 'https://me.journeyku.my.id',
   keywords: [
     'Ega',
     'Ega Evan',
