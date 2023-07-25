@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /*
+Host: me.journeyku.my.id

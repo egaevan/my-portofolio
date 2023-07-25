@@ -1,0 +1,21 @@
+{
+  "short_name": "Portfolio",
+  "name": "Ega's Portfolio",
+  "description": "Software Engineer specially Backend Developer with a demonstrated history of working in the information technology and services industry.",
+  "icons": [
+    {
+      "src": "./favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#11cdef",
+  "background_color": "#11cdef"
+}
