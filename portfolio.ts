@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     "Software Engineer specially Backend Developer with a demonstrated history of working in the information technology and services industry. Skilled in Go, PHP, and Software Development. Strong engineering professional with a Bachelor's degree focused on Information Technology from Andalas University.",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+   `${process.env.PORTOFOLIO_DOCS}`,
 };
 
 export const openSource = {
@@ -43,9 +43,7 @@ export const skillsSection: SkillsSectionType = {
       title: 'Full Stack Development',
       lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
-        emoji(
-          '⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js'
-        ),
+        emoji('⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js'),
         emoji('⚡ Building responsive static websites using Next.js'),
         emoji('⚡ Building RESTful APIs in Django & Django REST Framework'),
       ],
@@ -60,7 +58,7 @@ export const skillsSection: SkillsSectionType = {
         },
         {
           skillName: 'JavaScript',
-          fontAwesomeClassName: 'logos:javascript',
+          fontAwesomeClassName: 'logos:go',
         },
         {
           skillName: 'Reactjs',
